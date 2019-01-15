@@ -47,7 +47,7 @@ def caesar_cipher(word,key)
 	 array_of_words.map! do |word| 
 		word.chars.map! { |letter| letter = letter_encryption(letter, key)}.join
 	 end
-	 puts array_of_words.join(' ')
+	 return array_of_words.join(' ')
 end
 
 caesar_cipher("What a string!", 5)
