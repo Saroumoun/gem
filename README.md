@@ -1,2 +1,4 @@
 # gem
-projet mardi 15 janvier
+Projet du mardi 15 janvier
+
+Pair programming : Bastien HIEL
